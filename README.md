@@ -1,2 +1,2 @@
 # The-Weather-App
-This Web Application shows the Live Weather Report for any location you search on the search bar.
+In this Web Application, users can search any location across the globe and the web page will show the Live Weather Report for that particular location along with the background image based on the weather of that area.
